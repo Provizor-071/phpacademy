@@ -1,0 +1,29 @@
+body {
+    background: url(../img/backgroudsites.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+#content {
+    width: 1100px;
+    margin: auto;
+}
+
+.image {
+         
+}
+
+.imgposter {
+    margin: 20px; 
+    float: left;
+    border: 3px solid #2785A9;
+}
+
+.imgposter a:hover {
+    opacity: 0.8;
+}
+
