@@ -1,0 +1,57 @@
+body {
+    font-family: 'Alfa Slab One', cursive;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    height: 100px;
+    color: white;
+
+}
+
+
+.margin {
+    width: 930px;
+    margin: 0 auto;
+}
+
+.yacheiki TD {
+    background: #faa370;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+
+
+
+}
+
+.yacheiki TD:hover {
+    background: #fac970;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.yacheiki2 TD {
+    background: #00caf3;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+
+}
+
+.yacheiki2 TD:hover {
+    background: #00e0f3;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
