@@ -1,6 +1,6 @@
 <?php
 
-$age = 28;
+$age = 68;
 
 if ($age < 18) {
     //no

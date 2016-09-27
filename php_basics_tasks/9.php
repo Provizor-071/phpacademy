@@ -1,3 +1,5 @@
 <?php
 
-$day = 12
+$day = rand();
+
+echo  $day;
